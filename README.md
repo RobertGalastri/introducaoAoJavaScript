@@ -19,7 +19,7 @@
 
 ##### Console
 
-- [ ] Executando um arquivo .js
+- [x] Executando um arquivo .js
 
 
 ## 4º JavaScript em uma página da WEB
