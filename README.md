@@ -12,7 +12,7 @@
 ##### Recursos básicos da linguagem
 
 - [x] Manipulando um arquivo
-- [ ] Funções
+- [x] Funções
 
 
 ## 3º Console
