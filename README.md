@@ -11,7 +11,7 @@
 
 ##### Recursos básicos da linguagem
 
-- [ ] Manipulando um arquivo
+- [x] Manipulando um arquivo
 - [ ] Funções
 
 
