@@ -4,7 +4,7 @@
 
 ##### O que é JavaScript
 
-- [ ] História, Evolução e Aplicações
+- [x] História, Evolução e Aplicações
 
 
 ## 2º Recursos básicos da linguagem
