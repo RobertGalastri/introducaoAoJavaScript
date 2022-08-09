@@ -26,7 +26,7 @@
 
 ##### JavaScript em uma página da WEB
 
-- [ ] Estrutura de projeto
+- [x] Estrutura de projeto
 - [ ] Inserindo javascript numa página HTML
 - [ ] Interagindo com os elementos do DOM
 
