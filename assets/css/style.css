@@ -1,3 +1,27 @@
 body{
-    color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(152, 158, 169);
+}
+
+button{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    font-size: 16pt;
+    font-weight: 100;
+    text-align: center;
+}
+
+#counter{
+    display: flex;
+}
+
+#currentNumber{
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 16pt;
 }

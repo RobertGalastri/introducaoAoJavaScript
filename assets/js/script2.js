@@ -1,3 +1,12 @@
-console.log('Hello, world!');
-let headg1 = document.getElementsByTagName('h1')[0];
-headg1.style.color = 'red';
+let currentNumberWrapper = document.getElementById('currentNumber');
+let currentNumber = 0;
+
+function increment(){
+    currentNumber = currentNumber + 1;
+    currentNumberWrapper.innerHTML = currentNumber;
+}
+
+function decrement(){
+    currentNumber = currentNumber - 1;
+    currentNumberWrapper.innerHTML = currentNumber;
+}
