@@ -1,4 +1,4 @@
-# Introdução ao JavaScript ⏳
+# Introdução ao JavaScript ✅
 
 ## 1º O que é JavaScript
 
@@ -43,6 +43,6 @@
 
 ##### Mercado de trabalho
 
-- [ ] Frameworks
-- [ ] Mercado de trabalho
+- [x] Frameworks
+- [x] Mercado de trabalho
 
