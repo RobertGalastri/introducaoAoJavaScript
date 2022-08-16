@@ -27,16 +27,16 @@
 ##### JavaScript em uma página da WEB
 
 - [x] Estrutura de projeto
-- [ ] Inserindo javascript numa página HTML
-- [ ] Interagindo com os elementos do DOM
+- [x] Inserindo javascript numa página HTML
+- [x] Interagindo com os elementos do DOM
 
 
 ## 5º Colocando em pratica
 
 ##### Colocando em pratica
 
-- [ ] Criando um contador
-- [ ] Desafio: To-do list
+- [x] Criando um contador
+- [x] Desafio: To-do list
 
 
 ## 6º Mercado de trabalho
